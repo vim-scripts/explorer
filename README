@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2629
+
+This is the original explorer.vim plugin from Vim 6.4. As of Vim 7.0 this functionality is provided by the netrw.vim plugin but I prefer the original.
